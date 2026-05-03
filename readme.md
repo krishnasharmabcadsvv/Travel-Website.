@@ -7,7 +7,7 @@ A beautifully designed, multi-page travel guide website about India — built pu
 ## 🌐 Live Preview
 
 > Upload to GitHub Pages to get a live link!
-> `https://yourusername.github.io/your-repo-name/`
+> `https:/krishnasharmabcadsvv/Travel-Website.`
 
 ---
 
@@ -65,7 +65,7 @@ A beautifully designed, multi-page travel guide website about India — built pu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/incredible-india-travel-guide.git
+   git clone https://krishnasharmabcadsvv/incredible-india-travel-guide.git
    ```
 
 2. **Navigate into the project folder**
